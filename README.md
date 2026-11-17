@@ -3,6 +3,8 @@
 Assistente de voz local para Windows, com avatar Live2D, memória e chats de live. Tudo roda no seu PC.
 Este repositório distribui o **Luna.exe**: o download fica em [Releases](../../releases/latest).
 
+Site, com vídeos de cada função: [lunaproject-alpha.vercel.app](https://lunaproject-alpha.vercel.app)
+
 ## Instalar
 
 1. Baixe o `Luna-<versão>.zip` na versão mais recente em [Releases](../../releases/latest) e extraia a pasta inteira.
