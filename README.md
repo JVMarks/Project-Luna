@@ -48,3 +48,7 @@ Abra uma [issue](../../issues) com o que aconteceu e a saída de `Luna.exe diagn
 ## Créditos
 
 Ver [CREDITOS.txt](CREDITOS.txt). Luna é um projeto bitcoin100treta.
+
+## Licença
+
+Gratuita para uso pessoal e em lives, código fechado. Termos em [LICENCA.txt](LICENCA.txt).

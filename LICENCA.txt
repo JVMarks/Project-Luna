@@ -1,0 +1,32 @@
+Luna (Luna.exe) - Termos de uso
+Copyright (c) 2026 bitcoin100treta. Todos os direitos reservados.
+
+A Luna é gratuita, mas não é software livre nem de código aberto. O código-fonte não é distribuído.
+
+Você pode:
+- baixar, instalar e usar o Luna.exe de graça, para uso pessoal e nas suas lives e vídeos,
+  inclusive em canais que geram renda;
+- mostrar a Luna funcionando em gravações, prints e transmissões.
+
+Você não pode:
+- vender, alugar ou cobrar pelo Luna.exe ou por cópias dele;
+- redistribuir o pacote, inteiro ou modificado, em outro site ou loja (indique o link oficial:
+  https://github.com/JVMarks/Project-Luna/releases);
+- descompilar, fazer engenharia reversa ou tirar avisos de autoria, exceto onde a lei permitir.
+
+Por sua conta:
+- os modelos, vozes e avatares que você baixa ou escolhe seguem as licenças de cada um
+  (ver CREDITOS.txt). Nenhum avatar vem com a Luna;
+- o uso das plataformas de live (YouTube, Twitch, Kick) segue os termos de cada uma;
+- quem usa a Luna nas próprias lives responde pelo que ela fala ali. O modo revisar,
+  que pede aprovação antes de cada resposta, é o padrão e o recomendado.
+
+Classificação: indicado para maiores de 16 anos (a Luna é sarcástica e pode falar palavrão).
+
+Privacidade: conversas, memória e traços ficam na pasta "data" do seu PC. Mensagens dos chats
+de live não são salvas. O projeto não recebe nenhum dado seu.
+
+Garantia: a Luna é oferecida como está, de graça, sem garantia de funcionamento ou de
+adequação a um uso específico, nos limites permitidos pela lei brasileira.
+
+Bibliotecas de terceiros incluídas no pacote mantêm as licenças próprias (ver CREDITOS.txt).
