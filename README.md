@@ -47,7 +47,7 @@ Abra uma [issue](../../issues) com o que aconteceu e a saída de `Luna.exe diagn
 
 ## Créditos
 
-Ver [CREDITOS.txt](CREDITOS.txt). Luna é um projeto bitcoin100treta.
+Ver [CREDITOS.txt](CREDITOS.txt). Dentro do zip, `TERCEIROS.txt` lista as bibliotecas incluídas com versão e licença, e a pasta `licencas` traz os textos. Luna é um projeto bitcoin100treta.
 
 ## Licença
 

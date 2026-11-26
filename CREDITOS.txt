@@ -9,5 +9,6 @@ Não vem neste pacote e é baixado ou escolhido na primeira execução:
 - Avatar no desktop: precisa do Node.js e do Cubism Core da Live2D (termos da Live2D).
 
 Dentro do pacote vão bibliotecas Python com licenças próprias (PyTorch BSD, FastAPI MIT,
-PyAV com FFmpeg LGPL em DLL separada, entre outras). O carregador do PyInstaller é GPL com
-exceção que permite distribuir o programa montado.
+entre outras): a lista com versão e licença está em TERCEIROS.txt e os textos de cada licença
+na pasta licencas. O carregador do PyInstaller é GPL com exceção que permite distribuir o
+programa montado. O FFmpeg (PyAV) não vem no pacote.
